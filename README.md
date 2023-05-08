@@ -1,23 +1,22 @@
 <p align="center">
-		<img alt="Sadeq's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Sadeq">
+		<img alt="Mohammed's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Mohammed">
 </p>
 
 
-I'm a software developer, currently working on [Android](https://developer.android.com) & [Flutter](https://flutter.dev). besides that, I have a knowledge in backend development using [Django](https://www.djangoproject.com) & [NodeJS](https://nodejs.dev/en/). programming is my passion so I'm always trying to learn new things and improve my skills.
+I'm a software developer, currently working on [Android](https://developer.android.com) & [Laravel](https://laravel.com/img/logomark.min.svg). besides that, I have a knowledge in DevOps tools. programming is my passion so I'm always trying to learn new things and improve my skills.
 
 * 🌱 I’m currently learning **Native Android development** with [Kotlin](https://kotlinlang.org), [Android Jetpack](https://developer.android.com/jetpack), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture).
 * 📫 How to reach me:
-    * Email: dev.sadeq@gmail.com
-    * [LinkedIn](https://www.linkedin.com/in/devsadeq/)
+    * Email: mohammed1212alhams@gmail.com
+    * [LinkedIn](https://www.linkedin.com/in/mohammed-alhams-808963244/)
 * 😄 Pronouns: He/Him 👨🏻‍💻
-* ⚡ Fun fact: I'm a pharmacist by profession, but I'm a software engineer by passion.
 
 ## 📈 Github Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=devsadeq&theme=react&hide_border=false&include_all_commits=false&count_private=true" width=400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=devsadeq&theme=react&hide_border=false&include_all_commits=false&count_private=true" width=400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Mohammed-Alhams&theme=react&hide_border=false&include_all_commits=false&count_private=true" width=400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mohammed-Alhams&theme=react&hide_border=false&include_all_commits=false&count_private=true" width=400>
 </p>
 
 ## ⚡ Technologies
